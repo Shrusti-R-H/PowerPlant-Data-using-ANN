@@ -1,4 +1,4 @@
-# ⚡ Power Plant Energy Prediction using ANN
+#  Power Plant Energy Prediction using ANN
 
 ## 📌 Project Overview
 
